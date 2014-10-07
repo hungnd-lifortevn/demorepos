@@ -1,5 +1,0 @@
-we open a connect to "wss://echo.websocket.org"  (your link sent to us https://www.websocket.org/echo.html)
-send and receive messages. We tested successful on web (Ripple) and Android hardware. we were commit to githup, you pull source code and run in Visual Studio
-
-
-pattern="^([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])(\.([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-]{0,61}[a-zA-Z0-9]))*$"
